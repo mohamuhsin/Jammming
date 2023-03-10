@@ -1,4 +1,4 @@
-# A spotify like App Called Jammming
+# A Spotify like App Called Jammming
 
 # The website was built in four parts:
 
