@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import SearchBar from "../SearchBar/SearchBar";
+import SearchResults from "../SearchResults/SearchResults";
 
 class App extends React.Component {
   render() {
